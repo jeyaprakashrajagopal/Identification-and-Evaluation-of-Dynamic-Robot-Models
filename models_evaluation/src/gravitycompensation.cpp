@@ -8,6 +8,7 @@
  **************************************************************************************/
 #include "gravitycompensation.hpp"
 #include <iostream>
+#include <fstream>
 #include <ros/ros.h>
 #include <ros/package.h>
 #include <youbot_driver/youbot/YouBotManipulator.hpp>
