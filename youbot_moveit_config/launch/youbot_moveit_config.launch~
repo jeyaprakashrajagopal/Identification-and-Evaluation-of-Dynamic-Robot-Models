@@ -1,0 +1,8 @@
+<launch>
+
+  <node name="youbot_moveit_config_node" pkg="youbot_moveit_config" type="youbot_moveit_config" respawn="false" output="screen">
+  </node>
+  <node name="joint_states_throttle" pkg="topic_tools" type="throttle" respawn="false" output="screen"
+	args="messages /joint_states 9.0">
+  </node>
+</launch>

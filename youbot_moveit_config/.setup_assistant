@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: youbot_moveit_config
+    relative_path: data/youbot.urdf
+  SRDF:
+    relative_path: config/youbot.srdf
+  CONFIG:
+    author_name: Jeyaprakash rajagopal
+    author_email: jeyaprakash.rajagopal@smail.inf.h-brs.de
+    generated_timestamp: 1487942447

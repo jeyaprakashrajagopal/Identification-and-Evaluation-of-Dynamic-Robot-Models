@@ -1,0 +1,12 @@
+This folder contains
+
+Joint1 to joint5 folders contain the following information
+
+1. r_joint1.dat to r_joint5.dat: The complete data from the moving configurations
+
+2. staticj1.dat to staticj5.dat : The static configurations
+
+3. r_joint2_new_1t to r_joint2_new_3t : The three trajectories selected for the plotting in the reports
+
+
+
